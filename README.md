@@ -1,4 +1,4 @@
-# Mukund Rathi | B.Tech ECE Student | Hardware AI Acceleration & Embedded IoT
+# Mukund Rathi | B.Tech ECE Student | VLSI & Embedded IoT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mukund-rathi" target="_blank">
