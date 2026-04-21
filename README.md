@@ -37,15 +37,15 @@ Currently researching **Hardware AI Accelerators and FPGA/VLSI design** at the *
 
 ## 🏆 Highlights
 
-| Award | Event | Year |
-|---|---|---|
-| 🥇 **Winner** (1 of 460+ teams) | DVCon India 2025 — FPGA-Based AI Accelerator Design Contest | Aug 2025 |
-| 🥈 **Rank 5** (of 252 finalists / 1356+ participants) | AI-Powered FPGA Design & Simulation Hackathon — NIT Jamshedpur | Dec 2025 |
-| 🤖 **Regional Finalist** | NXP AIM India 2025 — Autonomous Warehouse Navigation Challenge | Jul 2025 |
-| 🎓 **Samsung Fellowship** | ISWDP — Selected from 2,700+ applicants | Feb 2025 |
-| 🔬 **SRIP 2025 Selectee** | 200 selected out of 7,000 applicants — IIIT Bangalore | May 2025 |
-| 💡 **SIH Finalist** | Smart India Hackathon 2024 — IoT Landslide Detection | Aug 2024 |
-| ⭐ **5-Star Gold Badge** | HackerRank Python (Highest Rank) | Jun 2024 |
+| Award | Event | Proof | Year |
+|---|---|---|---|
+| 🥇 **Winner** (1 of 460+ teams) | DVCon India 2025 — FPGA-Based AI Accelerator Design Contest | [🔗 Link](https://lnkd.in/p/gGwH23pz) | Aug 2025 |
+| 🥈 **Rank 5** (252 finalists / 1356+ participants) | AI-Powered FPGA Design & Simulation Hackathon — NIT Jamshedpur | [🔗 Link](https://www.linkedin.com/posts/mukund-rathi_ai-powered-fpfa-design-hackathon-final-result-activity-7412088889168809984-lpK8) | Dec 2025 |
+| 🤖 **Regional Finalist** | NXP AIM India 2025 — Autonomous Warehouse Navigation Challenge | [🔗 Certificate](https://drive.google.com/file/d/1umXv9uO6evpcIW7T57CqNVzkSpYrVtCB/view?usp=drive_link) | Jul 2025 |
+| 🎓 **Samsung Fellowship** | ISWDP — Selected from 2,700+ applicants | [🔗 Certificate](https://drive.google.com/file/d/14CRX_Zrnuh74wURki8F3yA0brSKVcAck/view?usp=drive_link) | Feb 2025 |
+| 🔬 **SRIP 2025 Selectee** | 200 selected out of 7,000 applicants — IIIT Bangalore | [🔗 Certificate](https://drive.google.com/file/d/1izdBVhMFryyqNa0uuHCsCsbDR-Dyg8YP/view?usp=drive_link) | May 2025 |
+| 💡 **SIH Finalist** | Smart India Hackathon 2024 — IoT Landslide Detection | [🔗 Submission](https://drive.google.com/file/d/15ZggeVYP7hajr_7Yl2BqyeOt2KgSOZJr/view?usp=drive_link) | Aug 2024 |
+| ⭐ **5-Star Gold Badge** | HackerRank Python (Highest Rank) | [🔗 Profile](https://www.hackerrank.com/profile/rathimukund_01) | Jun 2024 |
 
 ---
 
@@ -100,7 +100,7 @@ Developer Tools    : Git, Docker, VS Code, GCP, MongoDB, React, Node.js
 ## 💼 Experience
 
 ### 🔬 Summer Research Intern — IIIT Bangalore (CEEMS Lab & NCL)
-**Guided by Dr. Jyotsna Bapat, Dr. Sasirekha, Dr. Vinod · May – July 2025 · Bengaluru, KA**
+**Guided by Dr. Jyotsna Bapat, Dr. Sasirekha, Dr. Vinod · May – July 2025 · Bengaluru, KA** &nbsp;·&nbsp; [[Certificate]](https://drive.google.com/file/d/1MAwOUzgrdk2NpkQyrE0Cg4lpWkHHEplM/view?usp=drive_link) &nbsp;·&nbsp; [[Project Repo]](https://github.com/mukund01001/Water-Management-System-IIITB)
 
 - Engineered a **full-stack Embedded IoT & Digital Twin platform** for smart campus water management — Python backend ingesting live data from **24 meters via 3 DCUs** using MQTT and I2C.
 - Deployed **ML models** (Prophet + Isolation Forest) for automated leak detection, anomaly alerting, and predictive water-demand forecasting on time-series sensor data.
@@ -111,7 +111,7 @@ Developer Tools    : Git, Docker, VS Code, GCP, MongoDB, React, Node.js
 
 ## 🚀 Projects
 
-### 🥇 [FPGA-Based AI Accelerator on RISC-V SoC](https://github.com/mukund01001/FlowTransformer_Quantization_Analysis)
+### 🥇 FPGA-Based AI Accelerator on RISC-V SoC &nbsp;·&nbsp; [[Project Drive]](https://drive.google.com/drive/folders/1iN3k-tCRAXHMeiV6obRoFoMcB51Ux6tm?usp=drive_link) &nbsp;·&nbsp; [[Award Post]](https://lnkd.in/p/gGwH23pz)
 `DVCon India 2025 Winner — 1st of 460+ teams · Feb 2025 – Dec 2025`
 
 > *Full hardware acceleration of a Transformer-based NIDS on a RISC-V SoC.*
@@ -122,7 +122,7 @@ Developer Tools    : Git, Docker, VS Code, GCP, MongoDB, React, Node.js
 
 ---
 
-### 🥈 [AI-Powered FPGA Design — RTL Timing Prediction](https://github.com/mukund01001)
+### 🥈 AI-Powered FPGA Design — RTL Timing Prediction &nbsp;·&nbsp; [[GitHub]](https://github.com/mukund01001/RTL-Timing-Prediction-Machine-Learning-Framework-for-VLSI-Design-Automation) &nbsp;·&nbsp; [[Award Post]](https://www.linkedin.com/posts/mukund-rathi_ai-powered-fpfa-design-hackathon-final-result-activity-7412088889168809984-lpK8)
 `Rank 5 / 1356+ participants — NIT Jamshedpur VLSI FOR ALL Hackathon · Nov 2025 – Jan 2026`
 
 > *ML pipeline to predict post-synthesis critical-path delay directly from RTL.*
@@ -132,7 +132,7 @@ Developer Tools    : Git, Docker, VS Code, GCP, MongoDB, React, Node.js
 
 ---
 
-### 🤖 [Warehouse Treasure Hunt & Object Recognition](https://github.com/mukund01001)
+### 🤖 Warehouse Treasure Hunt & Object Recognition &nbsp;·&nbsp; [[GitHub]](https://github.com/mukund01001/NXP_AIM_INDIA_2025) &nbsp;·&nbsp; [[Certificate]](https://drive.google.com/file/d/1umXv9uO6evpcIW7T57CqNVzkSpYrVtCB/view?usp=drive_link)
 `NXP AIM India 2025 Regional Finalist · July 2025`
 
 > *Autonomous warehouse navigation robot built on ROS2.*
@@ -142,21 +142,21 @@ Developer Tools    : Git, Docker, VS Code, GCP, MongoDB, React, Node.js
 
 ---
 
-### 📡 [IoT-Driven Landslide Detection & Alert System](https://www.linkedin.com/in/mukund-rathi)
+### 📡 IoT-Driven Landslide Detection & Alert System &nbsp;·&nbsp; [[Project Link]](https://drive.google.com/file/d/15ZggeVYP7hajr_7Yl2BqyeOt2KgSOZJr/view?usp=drive_link)
 `Smart India Hackathon 2024 Finalist · Sept 2024`
 
 - Deployed real-time landslide monitoring using **Arduino + MPU6050 (accel/gyro) + Soil Moisture Sensor** with ML classification for early evacuation alerts in disaster-prone zones.
 
 ---
 
-### 🌕 [Crater & Boulder Detection — Lunar Exploration (ISRO Hackathon)](https://www.linkedin.com/in/mukund-rathi)
+### 🌕 Crater & Boulder Detection — Lunar Exploration (ISRO Hackathon) &nbsp;·&nbsp; [[Project Link]](https://drive.google.com/file/d/1lsw6Lh04YDibs8JaTw-1_Lct5cbOw43s/view?usp=drive_link)
 `Bharatiya Antariksh Hackathon · Aug 2024`
 
 - Automated detection of craters/boulders in ISRO OHRC lunar images using **U-Net + YOLO** (TensorFlow + OpenCV); generated **GIS-compatible shapefiles** for mission planning.
 
 ---
 
-### ☁️ [Microsoft Azure IoT Hub Application](https://github.com/mukund01001)
+### ☁️ Microsoft Azure IoT Hub Application &nbsp;·&nbsp; [[Project Link]](https://drive.google.com/file/d/1D3YsOguMpzkDddBF3mhfc_qnRC6--82E/view?usp=sharing)
 `May 2024`
 
 - Raspberry Pi simulator streaming temperature/humidity telemetry to **Azure IoT Hub**; data stored to CSV and visualized with Excel line & area charts.
@@ -165,37 +165,36 @@ Developer Tools    : Git, Docker, VS Code, GCP, MongoDB, React, Node.js
 
 ## 📜 Certifications & Courses
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| TTTC 3-Day Hands-On Workshop on VLSI Test (DFT, ATPG, Scan) | IEEE Computer Society (TTTC), C2S | Jan 2026 |
-| RISC-V Bare-Metal Programming Foundations | VLSI System Design (VSD) | Jun 2025 |
-| VLSI System on Chip Design | Maven Silicon | Feb 2025 |
-| MicroPython for Beginners | National Institute of Electronics & IT | Mar 2025 |
-| Python (Advanced) | Kaggle | Jun 2024 |
-| MATLAB Onramp / HDL Coder | MathWorks | Jul 2024 |
-| Software Engineering Simulation | Goldman Sachs (Forage) | 2024 |
+| Certificate | Issuer | Date | 🔗 |
+|---|---|---|---|
+| TTTC 3-Day Hands-On Workshop on VLSI Test (DFT, ATPG, Scan) | IEEE Computer Society (TTTC), C2S | Jan 2026 | [View](https://drive.google.com/file/d/15785py5XrDeyhNdItppB5k-7DZA9NMXp/view?usp=sharing) |
+| RISC-V Bare-Metal Programming Foundations | VLSI System Design (VSD) | Jun 2025 | [View](https://drive.google.com/file/d/1C4CmzUht8gu1iHsuAdjgn7q3YIQTDuKx/view?usp=sharing) |
+| VLSI System on Chip Design | Maven Silicon | Feb 2025 | [View](https://drive.google.com/file/d/1WofhlyGoHAUQeRUEaGXL3zwkXvJurNKf/view?usp=drive_link) |
+| MicroPython for Beginners | National Institute of Electronics & IT | Mar 2025 | [View](https://drive.google.com/file/d/1_Tdt3XyNmnfve8WwVQuUtqnUZpgemAu7/view?usp=sharing) |
+| Python (Advanced) | Kaggle | Jun 2024 | [View](https://www.kaggle.com/learn/certification/mukundrathi/python) |
+| MATLAB Onramp / HDL Coder | MathWorks | Jul 2024 | [View](https://drive.google.com/file/d/1fQVLNQZ64QhcSQx5zKLV_g3PZLdXvzA1/view?usp=drive_link) |
 
 ---
 
 ## 🔬 Research & Leadership
 
-### I²CS Research Lab — IIIT Kottayam *(Jan 2025 – Present)*
+### [I²CS Research Lab](https://www.linkedin.com/company/intelligent-integrated-circuits-and-systems-research-group) — IIIT Kottayam *(Jan 2025 – Present)*
 Researching **Hardware AI Accelerators** and FPGA/VLSI design under **Dr. Kala S** (Lab Head).
-- Attended hands-on workshop on **Digital Design Flow** using Synopsys EDA tools (VCS, Verdi, Design Compiler).
-- Participated in and **hosted** a workshop on **MATLAB HDL Coder & FPGA Implementation** with MathWorks.
+- Attended hands-on workshop on **Digital Design Flow** using Synopsys EDA tools (VCS, Verdi, Design Compiler) — [[link]](https://www.linkedin.com/posts/intelligent-integrated-circuits-and-systems-research-group_i2csresearchlab-vlsidesign-integratedcircuits-activity-7305518604479803394-yCrX)
+- Participated in and **hosted** a workshop on **MATLAB HDL Coder & FPGA Implementation** with MathWorks — [[link]](https://www.linkedin.com/posts/intelligent-integrated-circuits-and-systems-research-group_i2csresearchlab-vlsidesign-fpga-activity-7286440709757321216-NrfT)
 
-### Placement & Training Cell — IIIT Kottayam *(Jul 2024 – Aug 2025)*
+### [Placement & Training Cell](https://tinyurl.com/mavv2mst) — IIIT Kottayam *(Jul 2024 – Aug 2025)*
 Contacted **450+ companies** for campus placements via LinkedIn and email campaigns; coordinated multiple campus drives.
 
-### Elix (Electronics Club) — Tech & PR Lead *(Sep 2024 – Aug 2025)*
+### [Elix (Electronics Club)](https://tinyurl.com/zkad7h6x) — Tech & PR Lead *(Sep 2024 – Aug 2025)*
 - Led talks and hands-on sessions on **VLSI & Embedded Systems**; boosted event participation by **4× via PR campaigns**.
 
-### Chitrachaya — Photography & Cinematography Club Lead *(Nov 2023 – Present)*
+### [Chitrachaya — Photography & Cinematography Club](https://chitrachaya.framer.website/core_members) *(Nov 2023 – Present)*
 Managing a **team of 50+ photographers/videographers** covering every campus event; community of 250+ members.
 
 ### Volunteering
-- **IEEE ICITIIT-2024** — Assisted in managing 300+ authors and professionals at international conference.
-- **PETA India** *(Jul 2020 – Mar 2021)* — Community animal rescuer and PR volunteer during COVID.
+- **[IEEE ICITIIT-2024](https://drive.google.com/file/d/1J_k4yg_mNDKdFADqxX-qVYAhisTSNs1T/view?usp=sharing)** — Assisted in managing 300+ authors and professionals at the international conference.
+- **[PETA India](https://drive.google.com/file/d/1wjOOoYyYjevPv8toU5W0ndfSWRyZdz55/view?usp=drive_link)** *(Jul 2020 – Mar 2021)* — Community animal rescuer and PR volunteer during COVID.
 
 ---
 
