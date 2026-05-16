@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Mukund Rathi
-### B.Tech ECE · IIIT Kottayam · CGPA 8.3
+### B.Tech ECE · IIIT Kottayam · CGPA 8.4
 #### VLSI · Computer Architecture · Embedded IoT · AI/ML on Hardware
 
 <p align="center">
